@@ -1,0 +1,29 @@
+[
+  {
+    "plan_id": "P101",
+    "plan_name": "Gold PPO",
+    "monthly_premium": "500",
+    "annual_deductible": "2000",
+    "copay_pct": "10",
+    "coverage_type": "PPO",
+    "network_tier": "Gold"
+  },
+  {
+    "plan_id": "P102",
+    "plan_name": "Silver HMO",
+    "monthly_premium": "300",
+    "annual_deductible": "1500",
+    "copay_pct": "20",
+    "coverage_type": "HMO",
+    "network_tier": "Silver"
+  },
+  {
+    "plan_id": "P103",
+    "plan_name": "Bronze HMO",
+    "monthly_premium": "150",
+    "annual_deductible": "1000",
+    "copay_pct": "30",
+    "coverage_type": "HMO",
+    "network_tier": "Bronze"
+  }
+]
