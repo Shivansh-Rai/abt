@@ -1,1 +1,4 @@
 langchain-text-splitters
+scikit-learn
+matplotlib
+sentence-transformers
